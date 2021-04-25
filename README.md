@@ -1,0 +1,2 @@
+# spoj
+code in python
