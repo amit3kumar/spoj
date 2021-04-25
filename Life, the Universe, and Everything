@@ -1,0 +1,9 @@
+list = []
+while True:
+    _input = int(input())
+    if _input == 42:
+        break
+    else:
+        list.append(_input)
+for i in list:
+    print(i)
